@@ -25,19 +25,14 @@
 
     & .harry__popote {
         display: flex;
-        align-items: center;
         gap: 1rem;
-        position: absolute;
-        bottom: 1.5rem;
-        color: white;
-        font-family:'Times New Roman', Times, serif;
     }
 }
 
 #harry__grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-    padding: 0 13.5rem;
+    padding: 0 10rem;
     gap: 1rem;
     font-family:'Times New Roman', Times, serif;
     color: white;
